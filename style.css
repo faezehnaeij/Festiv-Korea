@@ -1,6 +1,8 @@
 img{
     margin: 0;
-    box-sizing: border-box;
-    border: 0 solid #e5e7eb;
+    border-radius: 12px;
+    display: block;
+    width: 800;
+    height: auto;
 
 }
