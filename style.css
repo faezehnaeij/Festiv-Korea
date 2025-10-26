@@ -14,3 +14,10 @@ img{
 h2{
     text-align: center;
 }
+body{
+    top: 50%;
+    left: 50%;
+    background-color: beige;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
