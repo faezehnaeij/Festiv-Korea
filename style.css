@@ -23,19 +23,22 @@ body{
     padding-top: 50px;
 }
 .countdown{
-    background-color: burlywood;
+    background-color: rgb(223, 97, 0);
     border: 2px solid;
     border-radius: 12px;
     padding: 20px;
     margin: 30px;
     color: #333;
     font-size: 15px;
-    width: 70%;
+    width: 50%;
 }
 .countdown a {
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     font-weight: bold;
     border-radius: 8px;
-    background-color: bisque;
+    background-color: rgb(253, 226, 17);
     padding: 10px 15px;
+}
+p{
+    text-align: justify;
 }
